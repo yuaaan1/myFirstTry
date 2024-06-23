@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\D7\iCloudDrive\visual\McWeTheBest\ConsoleApplication1\ConsoleApplication1\源.cpp(5,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\D7\iCloudDrive\visual\McWeTheBest\ConsoleApplication1\ConsoleApplication1\源.cpp(143,12): warning C4101: “accelerate”: 未引用的局部变量
+  ConsoleApplication1.vcxproj -> C:\Users\D7\iCloudDrive\visual\McWeTheBest\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
